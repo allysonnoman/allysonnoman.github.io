@@ -43,7 +43,7 @@ a {
 
 @media screen and (min-width: 769px) {
   .heading {
-    margin: 64px 0 96px;
+    margin: 96px 0;
   }
 
   .heading__copy {
